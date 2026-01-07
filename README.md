@@ -1,0 +1,2 @@
+It works completely offline once opened and can be added to the home screen like an app. Ideal for JEE, NEET, board exams, and regular practice analyss
+The app is divided into three main subjects: Maths, Physics, and Chemistry. Chemistry is further divided into Physical, Organic, and Inorganic, matching how students actually study. Every mistake can be saved along with its chapter name, so during revision you don’t just see the mistake, but also its context.
